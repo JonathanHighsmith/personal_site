@@ -12,6 +12,12 @@ nav {
   font-size: 120%;
   border-radius: 30px;
   background-color: #6EEFED;
+  width: 80%;
+  text-align: center; 
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  
 }
 
 .nav {
